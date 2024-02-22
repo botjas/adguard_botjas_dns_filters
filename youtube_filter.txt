@@ -21,3 +21,4 @@ modified: 20:44:00 +2GMT
 ||pagead2.googlesyndication.com^
 ||static.doubleclick.net^
 ||googleadservices.com^
+||i.ytimg.com^
