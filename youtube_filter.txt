@@ -6,7 +6,7 @@ fied: 2024-02-22 20:44:00 +2GMT
 modified: 20:44:00 +2GMT
 
 ! Source name: Botjas Adguard Home Youtube AD Blocker
-! Source: https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+! Source: https://github.com/botjas/adguard_botjas_dns_filters/blob/main/youtube_filter.txt
 !
 !
 ! Title: Botjas Adguard Home Youtube AD Blocker
