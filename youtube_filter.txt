@@ -15,10 +15,6 @@ modified: 20:44:00 +2GMT
 !
 ! Compiled by @kagiso344 v1.0
 
-! This section contains the list of third-party advertising networks domains.
-! Note, that we only put rules that block full domains here and not URL parts (there's `general_url.txt` for that). Also, it must be domains that are used in a third-party context.
-! The rules with hints are at the end of file.
-
 !
 ||ad.doubleclick.net^
 ||ade.googlesyndication.com^
