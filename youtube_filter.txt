@@ -25,3 +25,4 @@ modified: 20:44:00 +2GMT
 ||yt3.ggpht.com^
 ||googlevideo.com^
 ||pagead2.googlesyndication.com^
+||gstatic.com^
