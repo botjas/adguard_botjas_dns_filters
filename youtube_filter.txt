@@ -17,8 +17,7 @@ modified: 20:44:00 +2GMT
 
 !
 ||ad.doubleclick.net^
-||ade.googlesyndication.com^
-||pagead2.googlesyndication.com^
+||googlesyndication.com^
 ||static.doubleclick.net^
 ||googleadservices.com^
 ||i.ytimg.com^
