@@ -20,4 +20,4 @@ modified: 20:44:00 +2GMT
 ||ade.googlesyndication.com^
 ||pagead2.googlesyndication.com^
 ||static.doubleclick.net^
-||https://ad.doubleclick.net^
+||googleadservices.com^
