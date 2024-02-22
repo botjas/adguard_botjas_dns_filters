@@ -20,4 +20,6 @@ modified: 20:44:00 +2GMT
 ! The rules with hints are at the end of file.
 
 !
-||https://ad.doubleclick.net^
+||ad.doubleclick.net^
+||ade.googlesyndication.com^
+||pagead2.googlesyndication.com^
