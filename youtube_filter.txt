@@ -1,0 +1,21 @@
+!
+! Title: Botjas Adguard Home Youtube AD Blocker
+! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
+fied: 2024-02-22T12:06:55.996Z
+
+! Source name: Botjas Adguard Home Youtube AD Blocker
+! Source: https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+!
+!
+! Title: Botjas Adguard Home Youtube AD Blocker
+! Description: Filter composed of several other filters used to block Youtube ads using DNS
+
+!
+! Compiled by @kagiso344 v1.0
+
+! This section contains the list of third-party advertising networks domains.
+! Note, that we only put rules that block full domains here and not URL parts (there's `general_url.txt` for that). Also, it must be domains that are used in a third-party context.
+! The rules with hints are at the end of file.
+
+!
+||youtube.com^
