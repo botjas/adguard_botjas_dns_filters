@@ -23,3 +23,4 @@ modified: 20:44:00 +2GMT
 ||googleadservices.com^
 ||i.ytimg.com^
 ||https://i.ytimg.com^
+||yt3.ggpht.com^
