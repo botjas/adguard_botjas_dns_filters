@@ -1,7 +1,8 @@
 !
+
 ! Title: Botjas Adguard Home Youtube AD Blocker
-! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
-fied: 2024-02-22T12:06:55.996Z
+! Description: Filter composed of several other filters used to block Youtube ads using DNS
+fied: 2024-02-22 20:44:00 +2GMT
 
 ! Source name: Botjas Adguard Home Youtube AD Blocker
 ! Source: https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
